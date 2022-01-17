@@ -118,12 +118,7 @@ Publish the website in the given URL.
   <div class="fbox">
     <div class="footer">
       <center>
-        <p><br>
-          © 2021
-          <a><u>Private Time Table.</u></a> Made With <img
-            src="https://cdn.discordapp.com/attachments/533340656987275284/914065271138951198/796614640469016636.gif"
-            alt="❤" width="20" height="20"> by<a><u> SEC Students</u></a>
-        </p>
+       
       </center>
     </div>
   </div>
